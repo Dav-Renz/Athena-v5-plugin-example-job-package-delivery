@@ -1,6 +1,7 @@
 # Athena Plugin - Package Delivery
 
 A simple package delivery job plugin for the Athena Framework compatible with `v5` of the [Athena Framework](https://athenaframework.com/).
+This plugin is based on the previous example jobs by [Stuyk](https://github.com/stuyk) which can be found [here](https://github.com/Athena-Roleplay-Framework-v4).
 
 ## Installation
 
